@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pratik Srivastava</h1>
+<h1 align="center">Hi ![image](https://user-images.githubusercontent.com/92784294/169643627-22400dee-4f9f-4f71-90ae-28c1ef93efea.png), I'm Pratik Srivastava</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/pratik_srivasta" target="blank"><img src="https://img.shields.io/twitter/follow/pratik_srivasta?logo=twitter&style=for-the-badge" alt="pratik_srivasta" /></a> </p>
